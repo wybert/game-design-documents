@@ -44,8 +44,8 @@
 
 | 部分       | 技术                                           |
 | -------- | -------------------------------------------- |
-| 前端引擎     | Godot 4.x（GDScript + Scene Tree + Animation） |
-| 后端语言     | Python 3.10+                                 |
+| 前端引擎     | Godot （GDScript + Scene Tree + Animation） |
+| 后端语言     | Python +                                 |
 | 通信方式     | WebSocket（实时）、HTTP（配置与初始化）                   |
 | LLM平台    | OpenAI API / Ollama（本地）                      |
 | 记忆引擎     | LangChain Memory/Mem0 / 自定义状态管理                   |
